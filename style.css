@@ -1,0 +1,313 @@
+body {
+
+}
+
+.first {
+    background-image: url(img/Rectangle%201.png);
+    position: absolute;
+width: 1440px;
+height: 420px;
+left: 0px;
+top: 0px;
+
+}
+
+.firstt {
+    position: absolute;
+width: 1153px;
+height: 182px;
+left: 0px;
+top: 240px;
+margin-top: -100px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.84)), #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h1first{
+    position: absolute;
+width: 741px;
+height: 118px;
+left: 173px;
+top: 105px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 59px;
+/* or 22% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.psecond {
+    position: absolute;
+width: 997px;
+height: 37px;
+left: calc(50% - 997px/2 - 0.5px);
+top: 407px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 36px;
+/* identical to box height, or 76% */
+
+text-align: center;
+
+color: #757575;
+
+}
+
+.title {
+    position: absolute;
+width: 520px;
+height: 66.13px;
+    left: 120px;
+margin-top: 600px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+line-height: 70px;
+/* or 125% */
+
+
+color: #000000;
+
+}
+
+.small {
+    position: absolute;
+width: 608px;
+height: 308.9px;
+    left: 120px;
+margin-top: 700px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+
+color: #555555;
+
+}
+
+
+.image1 {
+    position: absolute;
+width: 400px;
+height: 366.79px;
+    margin-left: 880px;
+    margin-top: 600px;
+
+}
+
+.bottom {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 32px;
+margin-top: 1000px;
+    left: 200px;
+position: absolute;
+width: 87px;
+height: 42.9px;
+
+background: #FFCFE0;
+}
+
+.fourthimg {
+    position: absolute;
+width: 1440px;
+height: 200px;
+    margin-top: 1150px;
+
+}
+
+.p1 {
+    position: absolute;
+width: 141px;
+height: 70px;
+margin-top: 1155px;
+    left: 200px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 70px;
+/* identical to box height, or 125% */
+
+
+color: #222222;
+
+}
+
+.p2 {
+    position: absolute;
+width: 141px;
+height: 70px;
+margin-top: 1155px;
+    left: 650px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 70px;
+/* identical to box height, or 125% */
+
+
+color: #222222;
+
+}
+
+.p3 {
+    position: absolute;
+width: 141px;
+height: 70px;
+margin-top: 1155px;
+    left: 1100px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 70px;
+/* identical to box height, or 125% */
+
+
+color: #222222;
+}
+
+.line1 {
+    position: absolute;
+width: 139px;
+height: 0px;
+margin-top: 1230px;
+    left: 202px;
+border: 3px solid #222222;
+}
+
+.line2 {
+    position: absolute;
+width: 139px;
+height: 0px;
+margin-top: 1230px;
+    left: 652px;
+border: 3px solid #222222;
+}
+
+.line3 {
+    position: absolute;
+width: 139px;
+height: 0px;
+margin-top: 1230px;
+    left: 1102px;
+border: 3px solid #222222;
+}
+
+.p4 {
+    position: absolute;
+width: 220px;
+height: 30px;
+margin-top: 1260px;
+    left: 195px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+
+color: #555555;
+
+}
+
+.p5 {
+    position: absolute;
+width: 220px;
+height: 30px;
+margin-top: 1260px;
+    left: 645px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+
+color: #555555;
+
+}
+
+.p6 {
+    position: absolute;
+width: 220px;
+height: 30px;
+margin-top: 1260px;
+    left: 1100px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+
+color: #555555;
+
+}
+
+.image2 {
+    position: absolute;
+width: 749px;
+height: 488px;
+left: 0px;
+top: 1881px;
+margin-top: -400px;
+
+}
+
+.imp {
+    
+position: absolute;
+width: 520px;
+height: 66.13px;
+    left: 880px;
+margin-top: 1450px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+line-height: 70px;
+/* or 125% */
+
+
+color: #000000;
+}
+
+.small2 {
+     position: absolute;
+width: 608px;
+height: 308.9px;
+    left: 880px;
+margin-top: 1550px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+
+color: #555555;
+
+}
